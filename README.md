@@ -1,8 +1,8 @@
 ## Djathena
-<!-- ###A python module based on PyAthena and Records which gives you the power to query into Athena and recieve Django objects -->
+###A python module based on PyAthena and Records which gives you the power to query into Athena and recieve Django objects
 
-<!-- ####How it works: -->
-<!-- So far there are no django backends that support Athena connections, however we can connect any Python projects to it by using a beautyfull library called PyAthena.<br>But the only ORM you can use with PyAthena is SQLAlchemy (so, no Django ORM yet :pensive: )<br>What we can do with Djathena is let you still use your Django Models by making your queries using Records (which uses SQLAlchemy under the hood) and converting directly into your beloved model. -->
+####How it works:
+So far there are no django backends that support Athena connections, however we can connect any Python projects to it by using a beautyfull library called PyAthena.<br>But the only ORM you can use with PyAthena is SQLAlchemy (so, no Django ORM yet :pensive: )<br>What we can do with Djathena is let you still use your Django Models by making your queries using Records (which uses SQLAlchemy under the hood) and converting directly into your beloved model.
 ####Installation:
 Soon on pip, by now just copy the file  :stuck_out_tongue_winking_eye:
 
